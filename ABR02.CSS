@@ -64,8 +64,13 @@ BODY{
     text-align: justify;
     line-height: 1.5;
     color: #fff; 
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
+p{
+  margin: 0 20px;
+}
 
 UL.HORIZONTAL{
     font-family: monospace;
